@@ -7,8 +7,8 @@ background-color: goldenrod;
 }
 header{
 	background-color: #cc9900;
-	 text-align: center;
-     display: block;
+	text-align: center;
+     	display: block;
 }
 header img {
 	float: left;
@@ -80,7 +80,7 @@ nav a{
 	text-align: center;
 }	
 nav a:link{
-	color: purple;
+	color: black;
 }
 nav a:visited{
 	color: black;
